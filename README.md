@@ -27,7 +27,7 @@ your boss. Luckily you stole the documents on a Sunday, so the office is empty.
 2. Make sure that you can sideload applications into Quest 2
 3. Download the APK from releases
 4. Install the APK by sideloading using the SideQuest
-5. Go to Unknown Applications in Quest 2 and play Corporate Espionag
+5. Go to Unknown Applications in Quest 2 and play Corporate Espionage
 
 ## Team Members
 - Henry Nhan
